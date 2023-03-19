@@ -35,3 +35,9 @@
 .form-control.invalid Button {
   color: red;
 }
+
+.button.blur {
+  background-color: #ffcccc;
+  border-color: #ff9999;
+  cursor: not-allowed;
+}
